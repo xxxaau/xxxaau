@@ -2,7 +2,7 @@
 
 📫 You can reach me:
 - Site: https://sergi.xaudiera.xyz/
-- Linkedin: www.linkedin.com/in/sergix
+- Linkedin: https://www.linkedin.com/in/sergix
 
 
 <!--
