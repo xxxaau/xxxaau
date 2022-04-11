@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Sergi 👋
+
+📫 You can reach me:
+- Site: https://sergi.xaudiera.xyz/
+- Linkedin: www.linkedin.com/in/sergix
+
 
 <!--
 **xxxaau/xxxaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
