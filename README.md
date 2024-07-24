@@ -1,21 +1,10 @@
-### Hi there, I'm Sergi 👋
 
-📫 You can reach me:
-- Site: https://sergi.xaudiera.xyz/
-- Linkedin: https://www.linkedin.com/in/sergix
+# Sergi Xaudiera
 
+I am a human being working at the [Government of Catalonia](https://github.com/gencat), I volunteer at the [Ersilia Open Source Initiative](https://github.com/ersilia-os) and I research on social media, misinformation and crisis informatics.
 
-<!--
-**xxxaau/xxxaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learn **more about me**:
+- [Personal site](https://sergi.xaudiera.xyz/)
+- [Mastodon](https://mastodon.social/@sxau)
+- [LinkedIn](https://www.linkedin.com/in/sergix)
+- [Google Scholar](https://scholar.google.es/citations?hl=en&user=VCPwY_8AAAAJ)
